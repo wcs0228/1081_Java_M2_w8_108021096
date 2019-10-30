@@ -1,5 +1,5 @@
 import java.util.Scanner;
-    public class toBinaryString {
+    public class M2Q5 {
 
     public static void main(String[] args) {
         Scanner scn =new Scanner(System.in);

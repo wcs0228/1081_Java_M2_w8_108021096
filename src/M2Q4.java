@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class M2Q3 {
+public class M2Q4 {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
